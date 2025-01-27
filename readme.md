@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
+
 #### I've studied.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt="Python" src ="https://img.shields.io/badge/python-13384d?&style=for-the-badge&logo=pyton&logoColor=white"/>
