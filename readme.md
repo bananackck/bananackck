@@ -17,18 +17,21 @@
 <br />
 <br />
 ## Skills
-#### I use it often.
+#### I am used to.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</div>
+  <img alt="c" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img alt="reate" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="html5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img alt="css5" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
 #### I've studied.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img alt="Python" src ="https://img.shields.io/badge/python-13384d?&style=for-the-badge&logo=pyton&logoColor=white"/>
-  <img alt="C" src ="https://img.shields.io/badge/C-02599c?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="C++" src ="https://img.shields.io/badge/C++-02599c?&style=for-the-badge&logo=C++&logoColor=white"/>
-  
+  <img alt="Python" src ="https://img.shields.io/badge/python-13384d?&style=for-the-badge&logo=pytHon&logoColor=white"/>
+  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img alt="aws" src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
 </div>
 <br />
 <br />
