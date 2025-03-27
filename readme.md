@@ -25,7 +25,7 @@
   <img alt="html5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img alt="css5" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-
+</div>
 #### I've studied.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt="Python" src ="https://img.shields.io/badge/python-13384d?&style=for-the-badge&logo=pytHon&logoColor=white"/>
